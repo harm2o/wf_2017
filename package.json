@@ -1,0 +1,26 @@
+{
+  "name": "workflow_2017",
+  "version": "0.0.1",
+  "description": "Workflow mit glp, sass git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harm2o/wf_2017.git"
+  },
+  "keywords": [
+    "workflow",
+    "gulp",
+    "sass"
+  ],
+  "author": "harm2o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harm2o/wf_2017/issues"
+  },
+  "homepage": "https://github.com/harm2o/wf_2017#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
+    "gulp-util": "^3.0.8"
+  }
+}
