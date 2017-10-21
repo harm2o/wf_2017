@@ -1,0 +1,1 @@
+var $,fill;$=require("jquery"),(fill=function(i){return $(".tagline").append(""+i)})("This is your Beautiful world");
